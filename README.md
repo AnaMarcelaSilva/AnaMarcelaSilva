@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3b57&height=190&section=header&text=Ana%20Marcela%20Silva&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Sistemas%20em%20tempo%20real%2C%20integra%C3%A7%C3%B5es%20e%20IA&descSize=18&descAlignY=60&descColor=9fb3c8" width="100%" alt="Ana Marcela Silva" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=7FB4E6&center=true&vCenter=true&width=620&lines=Go%2C+Flutter%2C+React+e+Rust;Pub%2Fsub+em+tempo+real+com+WebSocket;Agentes+de+IA+no+fluxo+de+desenvolvimento;Diagn%C3%B3stico+e+causa+raiz+em+produ%C3%A7%C3%A3o" alt="Go, Flutter, React e Rust, tempo real, agentes de IA e diagnóstico em produção" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=7FB4E6&center=true&vCenter=true&width=620&lines=Go%2C+Flutter%2C+React+e+Java;Pub%2Fsub+em+tempo+real+com+WebSocket;Agentes+de+IA+no+fluxo+de+desenvolvimento;Diagn%C3%B3stico+e+causa+raiz+em+produ%C3%A7%C3%A3o" alt="Go, Flutter, React e Java, tempo real, agentes de IA e diagnóstico em produção" />
 
 <br />
 
@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Desenvolvo profissionalmente desde 2023. Hoje trabalho em uma empresa de software para varejo e food service, onde desenvolvo e mantenho um sistema de atendimento usado todos os dias em lojas e restaurantes. Atuo do back-end em Go aos apps em Flutter e às telas web em React, com foco em comunicação em tempo real entre sistemas e dispositivos, integrações e estabilidade em produção.
+Desenvolvo profissionalmente desde 2023. Hoje trabalho em uma empresa de software para varejo, onde desenvolvo e mantenho um sistema de atendimento usado todos os dias em lojas e restaurantes. Atuo do back-end em Go aos apps em Flutter e às telas web em React, com foco em comunicação em tempo real entre sistemas e dispositivos, integrações e estabilidade em produção.
 
 Também sou responsável pela investigação de problemas em produção. Analiso logs e dados, reproduzo o erro, identifico a causa raiz e entrego a correção, cuidando para que não se repita.
 
