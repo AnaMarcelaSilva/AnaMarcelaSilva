@@ -72,7 +72,7 @@ Uso agentes de IA no dia a dia de desenvolvimento e crio ferramentas com eles pa
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,flutter,dart,react,rust,java,mysql,sqlite,docker,linux,git&perline=11" alt="Go, Flutter, Dart, React, Rust, Java, MySQL, SQLite, Docker, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=go,flutter,dart,react,java,mysql,sqlite,docker,linux,git&perline=11" alt="Go, Flutter, Dart, React, Java, MySQL, SQLite, Docker, Linux, Git" />
   <br /><br />
   <img src="https://img.shields.io/badge/WebSocket-1f3b57?style=flat-square" alt="WebSocket" />
   <img src="https://img.shields.io/badge/Centrifuge-1f3b57?style=flat-square" alt="Centrifuge" />
